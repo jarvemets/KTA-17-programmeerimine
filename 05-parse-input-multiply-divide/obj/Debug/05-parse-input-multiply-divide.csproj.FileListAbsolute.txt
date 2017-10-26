@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\05-parse-input-multiply-divide\obj\Debug\05-parse-input-multiply-divide.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\05-parse-input-multiply-divide\bin\Debug\05-parse-input-multiply-divide.exe.config
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\05-parse-input-multiply-divide\bin\Debug\05-parse-input-multiply-divide.exe
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\05-parse-input-multiply-divide\bin\Debug\05-parse-input-multiply-divide.pdb
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\05-parse-input-multiply-divide\obj\Debug\05-parse-input-multiply-divide.exe
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\05-parse-input-multiply-divide\obj\Debug\05-parse-input-multiply-divide.pdb

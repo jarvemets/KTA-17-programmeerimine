@@ -1,0 +1,9 @@
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\bin\Debug\03-first-user-input.exe.config
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\bin\Debug\03-first-user-input.exe
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\bin\Debug\03-first-user-input.pdb
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\obj\Debug\03-first-user-input.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\obj\Debug\03-first-user-input.exe
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\obj\Debug\03-first-user-input.pdb
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\obj\Debug\03-first-user-input.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\bin\Debug\03-first-user-input.exe.CodeAnalysisLog.xml
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\03-first-user-input\bin\Debug\03-first-user-input.exe.lastcodeanalysissucceeded

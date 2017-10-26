@@ -1,0 +1,8 @@
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\bin\Debug\01-first-console-application.exe.config
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\bin\Debug\01-first-console-application.exe
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\bin\Debug\01-first-console-application.pdb
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\obj\Debug\01-first-console-application.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\obj\Debug\01-first-console-application.exe
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\obj\Debug\01-first-console-application.pdb
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\bin\Debug\01-first-console-application.exe.CodeAnalysisLog.xml
+C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\01-first-console-application\bin\Debug\01-first-console-application.exe.lastcodeanalysissucceeded
