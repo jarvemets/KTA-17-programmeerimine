@@ -1,0 +1,7 @@
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\3-exercise\3-exercise\bin\Debug\3-exercise.exe.config
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\3-exercise\3-exercise\bin\Debug\3-exercise.exe
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\3-exercise\3-exercise\bin\Debug\3-exercise.pdb
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\3-exercise\3-exercise\obj\Debug\3-exercise.csprojResolveAssemblyReference.cache
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\3-exercise\3-exercise\obj\Debug\3-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\3-exercise\3-exercise\obj\Debug\3-exercise.exe
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\3-exercise\3-exercise\obj\Debug\3-exercise.pdb
