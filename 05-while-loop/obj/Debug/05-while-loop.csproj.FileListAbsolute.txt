@@ -1,7 +1,0 @@
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\05-while-loop\bin\Debug\05-while-loop.exe.config
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\05-while-loop\bin\Debug\05-while-loop.exe
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\05-while-loop\bin\Debug\05-while-loop.pdb
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\05-while-loop\obj\Debug\05-while-loop.csprojResolveAssemblyReference.cache
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\05-while-loop\obj\Debug\05-while-loop.csproj.CoreCompileInputs.cache
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\05-while-loop\obj\Debug\05-while-loop.exe
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\05-while-loop\obj\Debug\05-while-loop.pdb

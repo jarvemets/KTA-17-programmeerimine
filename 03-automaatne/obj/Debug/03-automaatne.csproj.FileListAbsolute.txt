@@ -1,7 +1,0 @@
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\03-automaatne\obj\Debug\03-automaatne.csprojResolveAssemblyReference.cache
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\03-automaatne\obj\Debug\03-automaatne.csproj.CoreCompileInputs.cache
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\03-automaatne\bin\Debug\03-automaatne.exe.config
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\03-automaatne\bin\Debug\03-automaatne.exe
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\03-automaatne\bin\Debug\03-automaatne.pdb
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\03-automaatne\obj\Debug\03-automaatne.exe
-C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\01 exercise\03-automaatne\obj\Debug\03-automaatne.pdb
