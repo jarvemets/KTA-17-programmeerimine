@@ -1,9 +1,0 @@
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\bin\Debug\02-printing-out-text.exe.config
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\bin\Debug\02-printing-out-text.exe
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\bin\Debug\02-printing-out-text.pdb
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\obj\Debug\02-printing-out-text.csproj.CoreCompileInputs.cache
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\obj\Debug\02-printing-out-text.exe
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\obj\Debug\02-printing-out-text.pdb
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\bin\Debug\02-printing-out-text.exe.CodeAnalysisLog.xml
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\bin\Debug\02-printing-out-text.exe.lastcodeanalysissucceeded
-C:\Users\opilane\Desktop\KTA\src\01-exercises\exercise1\02-printing-out-text\obj\Debug\02-printing-out-text.csprojResolveAssemblyReference.cache
