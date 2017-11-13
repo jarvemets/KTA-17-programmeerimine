@@ -1,6 +1,0 @@
-C:\Users\opilane\Desktop\katrin\KTA-17-programmeerimine\03 exercise 13nov\03 exercise\grupitöö\6x6tabel\obj\Debug\6x6tabel.csprojResolveAssemblyReference.cache
-C:\Users\opilane\Desktop\katrin\KTA-17-programmeerimine\03 exercise 13nov\03 exercise\grupitöö\6x6tabel\bin\Debug\6x6tabel.exe.config
-C:\Users\opilane\Desktop\katrin\KTA-17-programmeerimine\03 exercise 13nov\03 exercise\grupitöö\6x6tabel\bin\Debug\6x6tabel.exe
-C:\Users\opilane\Desktop\katrin\KTA-17-programmeerimine\03 exercise 13nov\03 exercise\grupitöö\6x6tabel\bin\Debug\6x6tabel.pdb
-C:\Users\opilane\Desktop\katrin\KTA-17-programmeerimine\03 exercise 13nov\03 exercise\grupitöö\6x6tabel\obj\Debug\6x6tabel.exe
-C:\Users\opilane\Desktop\katrin\KTA-17-programmeerimine\03 exercise 13nov\03 exercise\grupitöö\6x6tabel\obj\Debug\6x6tabel.pdb
