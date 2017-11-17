@@ -1,0 +1,7 @@
+C:\Users\Katrin\Desktop\TPT\KTA\Exercises\6x6\bin\Debug\6x6.exe.config
+C:\Users\Katrin\Desktop\TPT\KTA\Exercises\6x6\bin\Debug\6x6.exe
+C:\Users\Katrin\Desktop\TPT\KTA\Exercises\6x6\bin\Debug\6x6.pdb
+C:\Users\Katrin\Desktop\TPT\KTA\Exercises\6x6\obj\Debug\6x6.csprojResolveAssemblyReference.cache
+C:\Users\Katrin\Desktop\TPT\KTA\Exercises\6x6\obj\Debug\6x6.csproj.CoreCompileInputs.cache
+C:\Users\Katrin\Desktop\TPT\KTA\Exercises\6x6\obj\Debug\6x6.exe
+C:\Users\Katrin\Desktop\TPT\KTA\Exercises\6x6\obj\Debug\6x6.pdb
