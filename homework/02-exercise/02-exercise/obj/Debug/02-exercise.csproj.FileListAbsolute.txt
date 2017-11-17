@@ -1,0 +1,7 @@
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\02-exercise\02-exercise\bin\Debug\02-exercise.exe.config
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\02-exercise\02-exercise\bin\Debug\02-exercise.exe
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\02-exercise\02-exercise\bin\Debug\02-exercise.pdb
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\02-exercise\02-exercise\obj\Debug\02-exercise.csprojResolveAssemblyReference.cache
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\02-exercise\02-exercise\obj\Debug\02-exercise.csproj.CoreCompileInputs.cache
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\02-exercise\02-exercise\obj\Debug\02-exercise.exe
+C:\Users\Katrin\Desktop\TPT\KTA-17-programmeerimine-master\homework\02-exercise\02-exercise\obj\Debug\02-exercise.pdb
