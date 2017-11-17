@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05627059-4BE1-4702-A03A-173CEFDE7626}</ProjectGuid>
+    <ProjectGuid>{4402E313-2FD0-471B-B334-10A81D4126DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_6x6tabel</RootNamespace>
-    <AssemblyName>6x6tabel</AssemblyName>
+    <RootNamespace>töö2</RootNamespace>
+    <AssemblyName>töö2</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
