@@ -10,24 +10,22 @@ namespace test2
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             Console.WriteLine("Taco Palenque");
             Console.WriteLine("1200 Main St");
             Console.WriteLine("--------------------------------------------");
 
             while (true)
-                { 
+            { 
 
                 Console.Write("Enter price of food item [-1 to quite]: ");
-
                 string input = Console.ReadLine();
-                int price = int.Parse(input);
-                Console.OutputEncoding = System.Text.Encoding.UTF8;
+                decimal value = decimal.Parse(input);
 
-                if (price == -1)
-                    {
-                         break;
-                    }
+                if (value == -1)
+                      break;
+                    
 
 
             }
