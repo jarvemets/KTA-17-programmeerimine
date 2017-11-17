@@ -1,6 +1,0 @@
-C:\Users\katrin.jarvemets\Desktop\KTA-17-programmeerimine\tunnikontroll 2\tunnikontroll 2\test2\obj\Debug\test2.csprojResolveAssemblyReference.cache
-C:\Users\katrin.jarvemets\Desktop\KTA-17-programmeerimine\tunnikontroll 2\tunnikontroll 2\test2\bin\Debug\test2.exe.config
-C:\Users\katrin.jarvemets\Desktop\KTA-17-programmeerimine\tunnikontroll 2\tunnikontroll 2\test2\bin\Debug\test2.exe
-C:\Users\katrin.jarvemets\Desktop\KTA-17-programmeerimine\tunnikontroll 2\tunnikontroll 2\test2\bin\Debug\test2.pdb
-C:\Users\katrin.jarvemets\Desktop\KTA-17-programmeerimine\tunnikontroll 2\tunnikontroll 2\test2\obj\Debug\test2.exe
-C:\Users\katrin.jarvemets\Desktop\KTA-17-programmeerimine\tunnikontroll 2\tunnikontroll 2\test2\obj\Debug\test2.pdb
