@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace grupitöö
+namespace töö2
 {
     class Program
     {
